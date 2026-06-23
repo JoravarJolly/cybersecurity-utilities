@@ -4,7 +4,7 @@ A terminal-based console application built in Python to automate core security t
 
 ---
 
-## 🛠️ Core Security Modules
+## CORE SECURITY MODULES
 
 ### 1. Password Entropy Auditor
 * **Focus Area:** Identity & Access Management (IAM)
